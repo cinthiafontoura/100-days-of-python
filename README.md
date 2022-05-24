@@ -7,7 +7,9 @@
 ### Beginner
 
 #### Day 1 - Working with Variables in Python to Manage Data
+Check the code at [replit.com](https://replit.com/@cinthiafontoura/band-name-generator-start#main.py)
 #### Day 2 - Understanding Data Types and How to Manipulate Strings
+Check the code at [replit.com](https://replit.com/@cinthiafontoura/tip-calculator)
 #### Day 3 - Control Flow and Logical Operators
 #### Day 4 - Randomisation and Python Lists
 #### Day 5 - Python Loops
@@ -57,16 +59,15 @@
   - #### Day 42 - Intermediate HTML
   - ####  Day 43 - Introduction to CSS
   - #### Day 44 - Intermediate CSS
-#### Day 45 - Intermediate+ Web Scraping with Beautiful Soup
-#### Day 46 - Intermediate+ Create a Spotify Playlist using the Musical Time Machine
-#### Day 47 - Intermediate+ Create an Automated Amazon Price Tracker
-####
-####
-####
-####
-####
-####
-####
+#### Day 45 - Web Scraping with Beautiful Soup
+#### Day 46 - Create a Spotify Playlist using the Musical Time Machine
+#### Day 47 - Create an Automated Amazon Price Tracker
+#### Day 48 - Selenium Webdriver Browser and Game Playing Bot
+#### Day 49 - Automating Job Applications on LinkedIn
+#### Day 50 - Auto Tinder Swiping Bot
+#### Day 51 - Internet Speed Twitter Complaint Bot
+#### Day 52 - Instagram Follower Bot
+#### Day 53 - Web Scraping Capstone - Data Entry Job Automation
 #### Day 54 - Introduction to Web Development with Flask
 #### Day 55 - HTML & URL Parsing in Flask and the Higher Lower Game
 #### Day 56 - Rendering HTML/Static files and Using Website Templates
@@ -76,12 +77,37 @@
 
 ### Advanced
 
+#### Day 59 - Advanced - Blog Capstone Project Part 2 - Adding Styling
+#### Day 60 - Make POST Requests with Flask and HTML Forms
+#### Day 61 - Building Advanced Forms with Flask-WTForms
+#### Day 62 - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
+#### Day 63 - Databases and with SQLite and SQLAlchemy
+#### Day 64 - My Top 10 Movies Website
 - #### Web Design School 
   - ##### Day 65 - How to Create a Website that People will Love
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - #### Day 80 - Capstone Project - Predict House Prices
+  
 ### Professional Portfolio Project
+
+#### Day 81 - Python Scripting - Text to Morse Code Converter
+  A text-based Python program to convert Strings into Morse Code.
+#### Day 82 - Python Web Development - Portfolio Website
+  A website to show off my skills and the things I've built.
 <!-- ####
-####
-####
 ####
 ####
 ####
