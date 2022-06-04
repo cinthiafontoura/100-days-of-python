@@ -11,6 +11,7 @@ Check the code at [replit.com](https://replit.com/@cinthiafontoura/band-name-gen
 #### Day 2 - Understanding Data Types and How to Manipulate Strings
 Check the code at [replit.com](https://replit.com/@cinthiafontoura/tip-calculator)
 #### Day 3 - Control Flow and Logical Operators
+Check the code at [replit.com](https://replit.com/@cinthiafontoura/treasure-island)
 #### Day 4 - Randomisation and Python Lists
 #### Day 5 - Python Loops
 #### Day 6 - Python Functions & Karel
@@ -84,7 +85,8 @@ Check the code at [replit.com](https://replit.com/@cinthiafontoura/tip-calculato
 #### Day 63 - Databases and with SQLite and SQLAlchemy
 #### Day 64 - My Top 10 Movies Website
 - #### Web Design School 
-  - ##### Day 65 - How to Create a Website that People will Love
+  - #### Day 65 - How to Create a Website that People will Love
+<!-- - 
   - 
   - 
   - 
@@ -97,8 +99,7 @@ Check the code at [replit.com](https://replit.com/@cinthiafontoura/tip-calculato
   - 
   - 
   - 
-  - 
-  - 
+  - -->
   - #### Day 80 - Capstone Project - Predict House Prices
   
 ### Professional Portfolio Project
